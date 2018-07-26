@@ -7,5 +7,5 @@ violet
 red
 green
 yellow
-
+purple
 the rainbow poem is now over
