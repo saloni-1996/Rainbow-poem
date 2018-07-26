@@ -11,4 +11,6 @@ black
 yellow
 purple
 the rainbow poem is now over
-new ponies
+ponies
+new 
+Ponies are similar to horses and unicorns
