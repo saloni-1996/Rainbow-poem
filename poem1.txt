@@ -1,0 +1,1 @@
+This file is just for trying different options available in git to try them on github
